@@ -1,0 +1,3 @@
+include ':ModuleApp', ':ModuleBase', ':ModuleHome', ':ModuleMessage', ':ModuleNotice'
+
+rootProject.name = 'AndroidComponentDemo4'
